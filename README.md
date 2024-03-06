@@ -7,7 +7,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,figma" />
   </a>
 </p>
-My Skills:
 
 <!---
 tidzi17/tidzi17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
