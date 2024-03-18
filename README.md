@@ -11,7 +11,7 @@
 <h3>Learning:</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,sql" />
+    <img src="https://skillicons.dev/icons?i=php,mysql" />
   </a>
 </p>
 <!---
