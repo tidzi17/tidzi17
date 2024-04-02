@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tidzi17
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in Web Development
 
 <h3>My Skills:</h3>
 <p align="">
